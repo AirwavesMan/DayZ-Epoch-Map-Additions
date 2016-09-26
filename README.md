@@ -1,7 +1,7 @@
 # DayZ-Epoch-Map-Additions
 
 
-How to add custom Map Content Client Side:
+How to add custom Map Content Client Side Epoch 1.0.6:
 
 
  - Put the your custom Map Addon into your missionfile. For a better overview, create a folder called mapaddons or something like that and put the file in there.
@@ -16,4 +16,4 @@ How to add custom Map Content Client Side:
     
     call compile preprocessFileLineNumbers "mapaddons\bridgeVatra.sqf";
 
- - Save and upload your Missionfile.
+ - Save, pack and upload your Missionfile.
