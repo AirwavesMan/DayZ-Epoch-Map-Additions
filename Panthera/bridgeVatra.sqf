@@ -1,8 +1,8 @@
 /*******************************************************
-*				Vatra Bridge by A Man				   *
-*													   *
-*Original code made by killzonekid  All Credits to him *
-*Source: http://killzonekid.com/arma-building-bridges/ *
+*Vatra Bridge by A Man				  
+*													  
+*Original code made by killzonekid  All Credits to him
+*Source: http://killzonekid.com/arma-building-bridges/
 ********************************************************/
 
 if (isNil "oneTime") then {
