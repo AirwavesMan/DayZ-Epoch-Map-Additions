@@ -11,6 +11,7 @@ execVM "\z\addons\dayz_server\mapaddons\south-west-island.sqf";
 - Save, pack and upload your server.pbo.
 
 
+
 How to add custom Map Content Client Side Epoch 1.0.6:
 
 
