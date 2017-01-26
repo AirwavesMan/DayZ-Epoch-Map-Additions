@@ -4,8 +4,10 @@ How to add custom Map Content Server Side Epoch 1.0.6:
 
 - create a folder in your server.pbo called mapaddons or something like that and put the map addon file in there
 
-- add the following line to the very bottom of your server_functions.sqf in the init folder of your server.pbo 
+- add the following line to the very bottom of your server_functions.sqf in the init folder of your server.pbo
 
+  E.g. for South West Island:
+  
   execVM "\z\addons\dayz_server\mapaddons\south-west-island.sqf";
 
 - Save, pack and upload your server.pbo.
