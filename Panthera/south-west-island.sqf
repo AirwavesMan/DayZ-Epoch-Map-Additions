@@ -2126,36 +2126,6 @@ if (true) then
   _this setPos [370.01648, 373.18399];
 };
 
-_unit_1 = objNull;
-if (true) then
-{
-  _this = createAgent ["FR_Sapper", [538.11035, 352.11429, -9.5367432e-007], [], 0, "CAN_COLLIDE"];
-  _unit_1 = _this;
-  _this setDir -104.28739;
-  _this setVehicleInit "this allowDammage false; this disableAI 'FSM'; this disableAI 'MOVE'; this disableAI 'AUTOTARGET'; this disableAI 'TARGET'; this setBehaviour 'CARELESS'; this forceSpeed 0;  ";
-  _this setUnitAbility 0.60000002;
-_this allowDammage false; _this disableAI 'FSM'; _this disableAI 'MOVE'; _this disableAI 'AUTOTARGET'; _this disableAI 'TARGET'; _this setBehaviour 'CARELESS'; _this forceSpeed 0;_this enableSimulation false;};
-
-_unit_6 = objNull;
-if (true) then
-{
-  _this = createAgent ["BAF_creWman_W", [485.61258, 267.3595, -1.1920929e-006], [], 0, "CAN_COLLIDE"];
-  _unit_6 = _this;
-  _this setDir -118.06584;
-  _this setVehicleInit "this allowDammage false; this disableAI 'FSM'; this disableAI 'MOVE'; this disableAI 'AUTOTARGET'; this disableAI 'TARGET'; this setBehaviour 'CARELESS'; this forceSpeed 0;  ";
-  _this setUnitAbility 0.60000002;
-_this allowDammage false; _this disableAI 'FSM'; _this disableAI 'MOVE'; _this disableAI 'AUTOTARGET'; _this disableAI 'TARGET'; _this setBehaviour 'CARELESS'; _this forceSpeed 0;_this enableSimulation false;};
-
-_unit_16 = objNull;
-if (true) then
-{
-  _this = createAgent ["FR_AC", [534.51514, 439.38632, -9.5367432e-007], [], 0, "CAN_COLLIDE"];
-  _unit_16 = _this;
-  _this setDir -100.50004;
-  _this setVehicleInit "this allowDammage false; this disableAI 'FSM'; this disableAI 'MOVE'; this disableAI 'AUTOTARGET'; this disableAI 'TARGET'; this setBehaviour 'CARELESS'; this forceSpeed 0;  ";
-  _this setUnitAbility 0.60000002;
-_this allowDammage false; _this disableAI 'FSM'; _this disableAI 'MOVE'; _this disableAI 'AUTOTARGET'; _this disableAI 'TARGET'; _this setBehaviour 'CARELESS'; _this forceSpeed 0;_this enableSimulation false;};
-
 _vehicle_1380 = objNull;
 if (true) then
 {
