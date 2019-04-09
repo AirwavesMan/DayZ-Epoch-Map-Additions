@@ -1,10 +1,10 @@
 # DayZ-Epoch-Map-Additions
 
-How to add custom Map Content Server Side Epoch 1.0.6.1:
+How to add custom Map Content Server Side Epoch 1.0.6.2+:
 
-- create a folder in your server.pbo called mapaddons or something like that and put the map addon file in there
+- Create a folder in your server.pbo called mapaddons or something like that and put the map addon file in there.
 
-- add the following line to the very bottom of your server_functions.sqf in the init folder of your server.pbo
+- Add the following line to the very bottom of your server_functions.sqf in the init folder of your server.pbo.
 
   E.g. for South West Island:
   
@@ -14,7 +14,7 @@ How to add custom Map Content Server Side Epoch 1.0.6.1:
 
 
 
-How to add custom Map Content Client Side Epoch 1.0.6.1:
+How to add custom Map Content Client Side Epoch 1.0.6.2+:
 
 
  - Put the your custom Map Addon into your missionfile. For a better overview, create a folder called mapaddons or something like that and put the file in there.
