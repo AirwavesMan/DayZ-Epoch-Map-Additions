@@ -1180,19 +1180,19 @@ if (true) then
 _vehicle_398 = objNull;
 if (true) then
 {
-  _this = createVehicle ["Land_Shed_W4", [4736.9863, 10372.145], [], 0, "CAN_COLLIDE"];
+  _this = createVehicle ["Land_Shed_W4", [4733.94,10365.8], [], 0, "CAN_COLLIDE"];
   _vehicle_398 = _this;
-  _this setDir -147.47742;
-  _this setPos [4736.9863, 10372.145];
+  _this setDir -147;
+  _this setPos [4733.94,10365.8];
 };
 
 _vehicle_400 = objNull;
 if (true) then
 {
-  _this = createVehicle ["Land_Shed_W4", [4743.0293, 10368.11, 3.0517578e-005], [], 0, "CAN_COLLIDE"];
+  _this = createVehicle ["Land_Shed_W4", [4739.86,10362], [], 0, "CAN_COLLIDE"];
   _vehicle_400 = _this;
-  _this setDir -146.96141;
-  _this setPos [4743.0293, 10368.11, 3.0517578e-005];
+  _this setDir -147;
+  _this setPos [4739.86,10362];
 };
 
 _vehicle_422 = objNull;
